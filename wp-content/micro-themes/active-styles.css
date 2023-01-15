@@ -1,0 +1,80 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Slider pro 3 86 sp slides **/
+#slider-pro-3-86 .sp-slides {
+	width: 100% !important;
+}
+
+/** Geral >> Ast desktop header custom logo **/
+#ast-desktop-header .custom-logo {
+	
+}
+
+/** Geral >> Heading 1 link **/
+h1 a {
+	
+}
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Div (#1) image **/
+false {
+	
+}
+
+/** Conteúdo >> Post 260 attachment large **/
+#post-260 .attachment-large {
+	text-align: left !important;
+	box-shadow: 0 0 10px 2px rgb(0, 0, 0) !important;
+	width: 320px !important;
+	height: 300px !important;
+	box-sizing: border-box !important;
+	object-fit: cover !important;
+	margin: 10px !important;
+	border-radius: 20px !important;
+	-webkit-transition: .5s !important;
+	transition: .5s !important;
+	opacity: 0.8 !important;
+}
+#post-260 .attachment-large:hover {
+	opacity: 1 !important;
+}
+
+/** Conteúdo >> Post 260 **/
+#post-260 {
+	
+}
+
+/** Conteúdo >> Post 242 attachment large **/
+#post-242 .attachment-large {
+	box-shadow: 0 0 10px 2px rgb(0, 0, 0) !important;
+	width: 320px !important;
+	height: 300px !important;
+	object-fit: cover !important;
+	margin: 10px !important;
+	border-radius: 20px !important;
+	-webkit-transition: .5s !important;
+	transition: .5s !important;
+	opacity: 0.8 !important;
+}
+#post-242 .attachment-large:hover {
+	opacity: 1 !important;
+}
+
+/** Conteúdo >> Post 242 entry header **/
+#post-242 .entry-header {
+	text-align: left !important;
+	float: none !important;
+	clear: none !important;
+}
+
+/** Conteúdo >> Post 242 post thumb img content **/
+#post-242 .post-thumb-img-content {
+	width: 500px !important;
+	height: 300px !important;
+}
+
